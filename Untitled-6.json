@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "title": "Mediocre Paper Shirt",
+        "price": 86,
+        "description": "Eveniet dolore sed nulla illum quia in impedit sint et.",
+        "category": "Men's Clothing",
+        "rating": 1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09LDo8SWOA50eeYZ1dgmDcAT5xYN67eSP5Q&usqp=CAU",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "title": "Vintage",
+        "price": 58,
+        "description": "Unde adipisci est rerum ipsam quia aut ut quia nemo.",
+        "category": "Men's Clothing",
+        "rating": 4,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/676158/1.jpg?9873",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "title": "Short Sleeve Shorts",
+        "price": 58,
+        "description": "Inventore labore sint rem perspiciatis voluptates aspernatur ea et id.",
+        "category": "Men's Clothing",
+        "rating": 4,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/8355101/1.jpg?7638",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "title": "Leather Pocket Wallet",
+        "price": 69,
+        "description": "Praesentium dignissimos temporibus omnis non accusamus minima illo illum possimus.",
+        "category": "Men's Clothing",
+        "rating": 2,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/44/1120201/1.jpg?9158",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "title": "Slim Suit",
+        "price": 96,
+        "description": "Libero repellat consequatur optio tempore accusantium eaque quia ea et.",
+        "category": "Men's Clothing",
+        "rating": 3,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/941336/1.jpg?5778",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "title": "Woolen Denim Jacket",
+        "price": 61,
+        "description": "Minus velit est rerum eligendi dolores quia quam molestiae sed.",
+        "category": "Men's Clothing",
+        "rating": 1,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/35/001487/1.jpg?3443",
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "title": "Glow in the Dark Necklace",
+        "price": 14,
+        "description": "Ipsam aliquam tempora repudiandae recusandae cupiditate eius vel quos nemo.",
+        "category": "Jewelry",
+        "rating": 3,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/018925/1.jpg?8454",
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "title": "Engagement Ring",
+        "price": 25,
+        "description": "Provident quibusdam ducimus accusamus similique sit enim qui facere aut.",
+        "category": "Jewelry",
+        "rating": 3,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/880334/1.jpg?8049",
+        "quantity": 1
+    },
+    {
+        "id": 9,
+        "title": "Bohemian Rings",
+        "price": 66,
+        "description": "Officia eum ut nesciunt at reprehenderit facilis accusantium nobis veritatis.",
+        "category": "Jewelry",
+        "rating": 4,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/915813/1.jpg?5146",
+        "quantity": 1
+    },
+    {
+        "id": 10,
+        "title": "Swan Brooch",
+        "price": 88,
+        "description": "Et amet doloribus totam ut reiciendis fuga quia nam dicta.",
+        "category": "Jewelry",
+        "rating": 5,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/5166221/1.jpg?0661",
+        "quantity": 1
+    },
+    {
+        "id": 11,
+        "title": "Long Necklace",
+        "price": 75,
+        "description": "Voluptatibus non consequatur sed et repellendus hic commodi doloremque ut.",
+        "category": "Jewelry",
+        "rating": 5,
+        "image": "https://ke.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/660084/1.jpg?5470",
+        "quantity": 1
+    },
+    {
+        "id": 12,
+        "title": "Cuff Bracelet",
+        "price": 17,
+        "description": "Consequuntur quidem excepturi animi provident minima dolores assumenda rerum esse.",
+        "category": "Jewelry",
+        "rating": 5,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/6193121/1.jpg?5455",
+        "quantity": 1
+    },
+    {
+        "id": 13,
+        "title": "Poncho",
+        "price": 93,
+        "description": "Quis ducimus iure officia sint est ut aperiam necessitatibus commodi.",
+        "category": "Women's Clothing",
+        "rating": 1,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/251159/1.jpg?9191",
+        "quantity": 1
+    },
+    {
+        "id": 14,
+        "title": "Printed T-shirt",
+        "price": 13,
+        "description": "Magni dignissimos impedit fugiat aspernatur illum velit itaque ratione hic.",
+        "category": "Women's Clothing",
+        "rating": 5,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/159107/1.jpg?2849",
+        "quantity": 1
+    },
+    {
+        "id": 15,
+        "title": "Maasai Leather Sandals",
+        "price": 69,
+        "description": "Eaque voluptas mollitia qui sequi natus alias qui et ratione.",
+        "category": "Women's Clothing",
+        "rating": 4,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/715813/1.jpg?5085",
+        "quantity": 1
+    },
+    {
+        "id": 16,
+        "title": "Palazzo Pants",
+        "price": 31,
+        "description": "Eaque velit necessitatibus ut omnis fugiat at debitis sint est.",
+        "category": "Women's Clothing",
+        "rating": 2,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/195675/1.jpg?0819",
+        "quantity": 1
+    },
+    {
+        "id": 17,
+        "title": "Long Sleeve Bodysuit",
+        "price": 56,
+        "description": "Eveniet voluptates velit voluptatem reprehenderit quia animi reiciendis dolor et.",
+        "category": "Women's Clothing",
+        "rating": 5,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/309913/1.jpg?8111",
+        "quantity": 1
+    },
+    {
+        "id": 18,
+        "title": "Black-biker gym",
+        "price": 27,
+        "description": "Recusandae libero corrupti fuga dolores quia repellat mollitia fugit et.",
+        "category": "Women's Clothing",
+        "rating": 3,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/607685/1.jpg?5489",
+        "quantity": 1
+    },
+    {
+        "id": 19,
+        "title": "Epson Printer",
+        "price": 15,
+        "description": "Deserunt qui debitis quia vel id laboriosam quaerat enim nisi.",
+        "category": "Electronics",
+        "rating": 1,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/44/074596/1.jpg?6722",
+        "quantity": 1
+    },
+    {
+        "id": 20,
+        "title": "Bluetooth Wireless Mouse",
+        "price": 70,
+        "description": "Maxime doloremque odit sequi itaque a ut voluptas sunt nulla.",
+        "category": "Electronics",
+        "rating": 3,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/745699/1.jpg?5540",
+        "quantity": 1
+    },
+    {
+        "id": 21,
+        "title": "Desktop Multimedia Speaker",
+        "price": 92,
+        "description": "Culpa repellat quo non enim sapiente corporis amet maxime quia.",
+        "category": "Electronics",
+        "rating": 5,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/688436/1.jpg?3013",
+        "quantity": 1
+    },
+    {
+        "id": 22,
+        "title": "Wi-Fi Bulb",
+        "price": 56,
+        "description": "Laudantium impedit harum minima aut rerum consequatur ea optio voluptas.",
+        "category": "Electronics",
+        "rating": 4,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/3219011/1.jpg?0897",
+        "quantity": 1
+    },
+    {
+        "id": 23,
+        "title": "SanDisk 64gb Micro sd",
+        "price": 52,
+        "description": "Unde quisquam laudantium excepturi perferendis expedita corrupti dolor officiis et.",
+        "category": "Electronics",
+        "rating": 1,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/174596/1.jpg?6718",
+        "quantity": 1
+    },
+    {
+        "id": 24,
+        "title": "Laptop Backpack",
+        "price": 89,
+        "description": "Iste assumenda omnis aut rerum id ut ut amet sit.",
+        "category": "Electronics",
+        "rating": 5,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/055617/1.jpg?3136",
+        "quantity": 1
+    },
+    {
+        "id": 25,
+        "title": "Barcadi 750ml",
+        "price": 48,
+        "description": "Iusto ea aut molestias vitae voluptas sapiente voluptas eum voluptatem.",
+        "category": "Alcoholic Drinks",
+        "rating": 3,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/35/676768/1.jpg?3401",
+        "quantity": 1
+    },
+    {
+        "id": 26,
+        "title": "Gordons Dry Gin 750ml",
+        "price": 96,
+        "description": "Rerum voluptatem rerum voluptatem debitis est qui voluptas et accusamus.",
+        "category": "Alcoholic Drinks",
+        "rating": 2,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/295594/1.jpg?4267",
+        "quantity": 1
+    },
+    {
+        "id": 27,
+        "title": "Chrome Gin 750ml",
+        "price": 16,
+        "description": "Voluptas sit quia et nihil perferendis eligendi assumenda enim a.",
+        "category": "Alcoholic Drinks",
+        "rating": 1,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/684225/1.jpg?6480",
+        "quantity": 1
+    },
+    {
+        "id": 28,
+        "title": "Johnnie Walker Red Label 750ml",
+        "price": 68,
+        "description": "Accusantium qui optio et quos numquam qui error similique exercitationem.",
+        "category": "Alcoholic Drinks",
+        "rating": 3,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/295594/1.jpg?4276",
+        "quantity": 1
+    },
+    {
+        "id": 29,
+        "title": "Martini Bianco 750ml",
+        "price": 71,
+        "description": "Aut quas eligendi quibusdam ut est consequatur eos doloribus sed.",
+        "category": "Alcoholic Drinks",
+        "rating": 5,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/84/676768/1.jpg?1366",
+        "quantity": 1
+    },
+    {
+        "id": 30,
+        "title": "Konyagi 250ml",
+        "price": 10,
+        "description": "Et voluptatem fugit rerum velit optio corrupti alias facere sit.",
+        "category": "Alcoholic Drinks",
+        "rating": 3,
+        "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/8617411/1.jpg?0231",
+        "quantity": 1
+    }
+]
